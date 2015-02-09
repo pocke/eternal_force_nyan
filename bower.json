@@ -1,0 +1,19 @@
+{
+  "name": "eternal_force_nyan",
+  "version": "0.0.0",
+  "authors": [
+    "pocke <p.ck.t22@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "qwest": "~1.5.4"
+  }
+}

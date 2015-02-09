@@ -1,0 +1,22 @@
+= doctype html
+html lang=ja
+  head
+    meta charset=UTF-8
+    meta name=viewport content="width=device-width" initial-scale=1
+    title エターナルフォースにゃーん
+    link href=/css/bootstrap.min.css rel=stylesheet
+
+body
+  div#vue-main.container
+    h1.page-header エターナルフォースにゃーん♡
+      small Ref: 
+        a href=http://togetter.com/li/780769 http://togetter.com/li/780769
+
+    a.btn.btn-primary href="/get_token" にゃーん♡
+
+  footer.navbar.navbar-default.navbar-fixed-bottom role=contentinfo
+    div.container
+      p.navbar-text Copyright &copy; 2015
+        a href=https://github.com/pocke pocke
+        | Licensed
+        a href="http://www.opensource.org/licenses/mit-license.php" MIT
